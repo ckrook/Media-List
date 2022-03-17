@@ -1,14 +1,13 @@
-# Codetask - SeenThis 🌱
+# Media content in a list 🌱
 
 ## Instructions to run the project
 
-run _npm i_ in both backend & frontend folder.
-cd into frontend folder and run _npm start_
+run **npm i** in both backend & frontend folder.<br>
+cd into frontend folder and run **npm start**
 
 ## Summary
 
-This was a fun task! I think it was great that it was broad.
-In this task I focused a little bit more on the frontend-part.
+Implementing a simple web application that has both a frontend and a backend. The application idea is rather simple - it lists media resources (images and videos) on one page. If the user clicks one item, it will render or play below the list. All items will be served by a backend REST API.
 
 ## Design decisions
 
@@ -31,4 +30,10 @@ But since this did not make since to me from a user perspective I choosed to ren
 - I should have used BEM naming convention and add separated css files by components.
 - I should have built this project with NextJS for image-optimization.
 
-## Thanks for reviewing my task!
+## Data
+
+### Images
+This data is collected from NASA images on Internet Archive.
+
+### Videos
+This data is collected from videos on Internet Archive, except form the description that origins from IMDb. All movies are produced byBlender Foundation.
