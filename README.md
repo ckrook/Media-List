@@ -31,7 +31,6 @@ But since this did not make since to me from a user perspective I choosed to ren
 - I should have built this project with NextJS for image-optimization.
 
 ## Data
-All data origins from the Internet Archive.
 
 ### Images
 This data is collected from NASA images on Internet Archive.
