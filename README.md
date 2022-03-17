@@ -2,8 +2,8 @@
 
 ## Instructions to run the project
 
-run _npm i_ in both backend & frontend folder.
-cd into frontend folder and run _npm start_
+run **npm i** in both backend & frontend folder.<br>
+cd into frontend folder and run **npm start**
 
 ## Summary
 
